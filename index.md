@@ -1,92 +1,97 @@
-# 👨‍💻 Eric Muheto
-
-**Unix SME | DevOps Engineer | Automation Specialist**  
-*Driving infrastructure reliability and automation at scale*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/eric-muheto/)  
-📍 Based in: [Montreal, Canada]  
-📧 [Contact]: muheto@gmail.com 
-🌐 Portfolio: [LinkedIn Profile](https://www.linkedin.com/in/eric-muheto/)
+---
+title: Welcome to my blog
 ---
 
-## 🧩 About Me
+# 👨<200d>💻 Eric Muheto
 
-I’m a seasoned Unix Systems Engineer with a strong focus on **infrastructure automation**, **middleware administration**, and **DevOps practices**. Currently at **Morgan Stanley**, I support complex Proof of Concept (PoC) environments and streamline VM provisioning using **Ansible**, working towards enterprise-grade job automation with **Ansible Tower**.
+ **Unix SME | DevOps Engineer | Automation Specialist**
+ *Driving infrastructure reliability and automation at scale*
 
-I bring a unique blend of academic rigor, field expertise, and automation skills, with real-world experience digitizing library systems and improving system accessibility in developing contexts.
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin. com/in/eric-muheto/)
+ 📍 Based in: [Montreal, Canada]
+ 📧 [Contact]: muheto@gmail.com
+ 🌐 Portfolio: [LinkedIn Profile](https://www.linkedin.com/in/eric-muheto/)
+ ---
 
----
+ ## 🧩 About Me
 
-## 🚀 Skills & Tools
+ I’m a seasoned Unix Systems Engineer with a strong focus on **infrastructure automation**, ** middleware administration**, and **DevOps practices**. Currently at **Morgan Stanley**, I     support complex Proof of Concept (PoC) environments and streamline VM provisioning using **   Ansible**, working towards enterprise-grade job automation with **Ansible Tower**.
 
-**Systems & Automation**:  
-`Unix/Linux` · `Red Hat` · `Ansible` · `Ansible Tower` · `Shell scripting` · `Bash`  
+ I bring a unique blend of academic rigor, field expertise, and automation skills, with real-  world experience digitizing library systems and improving system accessibility in developing  contexts.
 
-**DevOps & Cloud**:  
-`Git` · `CI/CD` · `Docker` · `Jenkins` · `Terraform` · `AWS (basic exposure)`  
+ ---
 
-**Web & App Development**:  
-`Python` · `Django` · `HTML/CSS` · `Bootstrap` · `PostgreSQL`  
+ ## 🚀 Skills & Tools
 
-**Monitoring & Reliability**:  
-`Nagios` · `Prometheus` · `Grafana`  
+ **Systems & Automation**:
+ `Unix/Linux` · `Red Hat` · `Ansible` · `Ansible Tower` · `Shell scripting` · `Bash`
 
-**Soft Skills**:  
-`Problem Solving` · `Mentoring` · `Documentation` · `Team Collaboration`  
+ **DevOps & Cloud**:
+ `Git` · `CI/CD` · `Docker` · `Jenkins` · `Terraform` · `AWS (basic exposure)`
 
----
+ **Web & App Development**:
+ `Python` · `Django` · `HTML/CSS` · `Bootstrap` · `PostgreSQL`
 
-## 💼 Work Experience
+ **Monitoring & Reliability**:
+ `Nagios` · `Prometheus` · `Grafana`
 
-### 🏢 Morgan Stanley — *Unix SME & DevOps Engineer*  
-*Dates: [Start Date] – Present*
+ **Soft Skills**:
+ `Problem Solving` · `Mentoring` · `Documentation` · `Team Collaboration`
 
-- Provide Unix and middleware expertise to multiple teams running PoCs in dedicated labs.
-- Automated virtual machine provisioning with **Ansible**, drastically reducing setup time.
-- Designing **Ansible Tower workflows** for reusable automation across teams.
-- Collaborate with developers and platform teams to align infrastructure with reliability best practices.
+ ---
 
----
+ ## 💼 Work Experience
 
-## 🎓 Education & Certifications
+ ### 🏢 Morgan Stanley — *Unix SME & DevOps Engineer*
+ *Dates: [Start Date] – Present*
 
-**Lib@Web Certification**, Universiteit Antwerpen  
-*Digitized library systems at the University of Burundi*
+ - Provide Unix and middleware expertise to multiple teams running PoCs in dedicated labs.
+ - Automated virtual machine provisioning with **Ansible**, drastically reducing setup time.
+ - Designing **Ansible Tower workflows** for reusable automation across teams.
+ - Collaborate with developers and platform teams to align infrastructure with reliability     best practices.
 
-**Bachelor’s in Computer Science**, University of Burundi  
-*Programming fundamentals in C++, UNIX system administration*
+ ---
 
----
+ ## 🎓 Education & Certifications
 
-## 📘 Notable Projects
+ **Lib@Web Certification**, Universiteit Antwerpen
+ *Digitized library systems at the University of Burundi*
+
+ **Bachelor’s in Computer Science**, University of Burundi
+ *Programming fundamentals in C++, UNIX system administration*
+
+ ---
+
+ ## 📘 Notable Projects
 
 ### 🔧 VM Provisioning Automation (Internal PoC Lab)
-Provisioned on-demand VMs using Ansible playbooks; integrated Tower for team self-service.
+ Provisioned on-demand VMs using Ansible playbooks; integrated Tower for team self-service.
 
-### 🌍 Library Digitization System  
-Built digital library services in a resource-limited university setting using Linux servers and open-source tools.
+ ### 🌍 Library Digitization System
+ Built digital library services in a resource-limited university setting using Linux servers   and open-source tools.
 
-### 🌐 Personal Tech Blog (Django)
-In development — Publishing automation, sysadmin, and DevOps content + newsletter and donation support.
+ ### 🌐 Personal Tech Blog (Django)
+ In development — Publishing automation, sysadmin, and DevOps content + newsletter and         donation support.
 
----
+ ---
 
-## 🏆 Goals & Interests
+ ## 🏆 Goals & Interests
 
-- Complete automation workflows with **Ansible Tower**
-- Mentor aspiring sysadmins in Unix/Linux and automation
-- Write technical articles about access control and user management in education IT
+ - Complete automation workflows with **Ansible Tower**
+ - Mentor aspiring sysadmins in Unix/Linux and automation
+ - Write technical articles about access control and user management in education IT
 
----
+ ---
 
-## 📂 GitHub Repositories
+ ## 📂 GitHub Repositories
 
-- [`vm-provisioning-ansible`](https://github.com/your-repo) — Automated Ansible-based provisioning
-- [`django-tech-blog`](https://github.com/your-repo) — Personal blogging platform
-- [`linux-user-management`](https://github.com/your-repo) — Scripts for managing users and ACLs in education
+ - [`vm-provisioning-ansible`](https://github.com/your-repo) — Automated Ansible-based         provisioning
+ - [`django-tech-blog`](https://github.com/your-repo) — Personal blogging platform
+ - [`linux-user-management`](https://github.com/your-repo) — Scripts for managing users and    ACLs in education
 
----
+ ---
 
-> “Good engineering is invisible. Great engineering empowers.”  
-> — Eric Muheto
+ > “Good engineering is invisible. Great engineering empowers.”
+ > — Eric Muheto
+
 
