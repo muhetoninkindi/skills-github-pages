@@ -5,8 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/eric-muheto/)  
 📍 Based in: [Montreal, Canada]  
-📧 Contact: [muheto@gmail.com]  
-🌐 Portfolio: [![My LinkedIn Page](https://www.linkedin.com/in/eric-muheto/)]  
+📧 [Contact]: muheto@gmail.com 
+🌐 [Portfolio]: https://www.linkedin.com/in/eric-muheto/
 
 ---
 
