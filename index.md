@@ -4,9 +4,9 @@
 *Driving infrastructure reliability and automation at scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/eric-muheto/)  
-📍 Based in: [Your City, Country]  
-📧 Contact: [Your email]  
-🌐 Portfolio: [Your personal website if available]  
+📍 Based in: [Montreal, Canada]  
+📧 Contact: [muheto@gmail.com]  
+🌐 Portfolio: [https://www.linkedin.com/in/eric-muheto/]  
 
 ---
 
