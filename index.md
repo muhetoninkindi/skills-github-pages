@@ -9,7 +9,7 @@ title: Welcome to my blog
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin. com/in/eric-muheto/)
  📍 Based in: [Montreal, Canada]
- 📧 [Contact]: muheto@gmail.com
+ 📧 [Contact]: eric.muheto.1@gmail.com
  🌐 Portfolio: [LinkedIn Profile](https://www.linkedin.com/in/eric-muheto/)
  ---
 
@@ -30,10 +30,10 @@ title: Welcome to my blog
  `Git` · `CI/CD` · `Docker` · `Jenkins` · `Terraform` · `AWS (basic exposure)`
 
  **Web & App Development**:
- `Python` · `Django` · `HTML/CSS` · `Bootstrap` · `PostgreSQL`
+ `Python` · `Django`.`Flask`.` · `HTML/CSS` · `Bootstrap` · `PostgreSQL`
 
  **Monitoring & Reliability**:
- `Nagios` · `Prometheus` · `Grafana`
+ `Nagios` · `Prometheus` · `Grafana`.`InfluxDB`
 
  **Soft Skills**:
  `Problem Solving` · `Mentoring` · `Documentation` · `Team Collaboration`
@@ -43,7 +43,7 @@ title: Welcome to my blog
  ## 💼 Work Experience
 
  ### 🏢 Morgan Stanley — *Unix SME & DevOps Engineer*
- *Dates: [Start Date] – Present*
+ *Dates: [2022-Jun] – Present*
 
  - Provide Unix and middleware expertise to multiple teams running PoCs in dedicated labs.
  - Automated virtual machine provisioning with **Ansible**, drastically reducing setup time.
@@ -58,7 +58,7 @@ title: Welcome to my blog
  *Digitized library systems at the University of Burundi*
 
  **Bachelor’s in Computer Science**, University of Burundi
- *Programming fundamentals in C++, UNIX system administration*
+ *Programming fundamentals in C,C++,Java,Lisp,Matlab,Networking, Embedded Systems, Mobile Application Develpment, UNIX/Linux system administration*
 
  ---
 
